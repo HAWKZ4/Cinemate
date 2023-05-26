@@ -18,7 +18,7 @@ export const MovieDetail = () => {
     }
     getMovie();
 
-  }, [])
+  }, [params.id])
 
   useTitle(movie.title)
 
