@@ -76,7 +76,11 @@ This project uses the [TMDb API](https://www.themoviedb.org/documentation/api) t
 
 ## Screenshots 📸
 
+**Home Page:**
 ![Home Page](https://github.com/HAWKZ4/Cinemate/assets/108879264/8deeda73-d2d9-43a8-81f6-0bb0d43ed865)
+<br/>
+<br/>
+**Movie details page:**
 ![Movie Details Page](https://github.com/HAWKZ4/Cinemate/assets/108879264/cb15c365-f80d-4c03-baf1-d8e3b4a45348)
 
 ## Contributing 🤝
