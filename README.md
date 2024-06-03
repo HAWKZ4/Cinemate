@@ -29,7 +29,7 @@ This project consumes a movie API to display detailed information about each mov
 ### Prerequisites
 
 - Node.js
-- NPM (Node Package Manager) or Yarn
+- NPM (Node Package Manager)
 - React
 - Tailwind CSS
 
